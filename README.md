@@ -32,11 +32,11 @@ I'm a passionate Full-stack developer with over 3 years of experience in buildin
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqasahmad&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas Ahmad's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderatwork-7&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas Ahmad's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasahmad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderatwork-7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasahmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderatwork-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
