@@ -6,14 +6,49 @@ _Focused on building scalable web applications with modern technologies._
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Full-stack developer with over 6 years of experience in building high-performance applications using **Django**, **React.js**, and **Docker**. I'm currently working on [Modrek](https://modrek.com), a SaaS platform empowering new traders with smarter trading decisions.
+My name is **Waqas Ahmad** 👋, and I’ve been a Full-stack Developer since 2017. I started my journey as a **Laravel Developer** 💻, but soon, **Python** 🐍 caught my interest, leading me into the fascinating world of **Data Science** 📊 and **Artificial Intelligence** 🤖—which originally inspired me to learn programming.
 
-- 🔭 **Current Project**: [Modrek SaaS](https://modrek.com) (Django, React.js, Docker)
-- 🌱 **Learning**: Kubernetes, CI/CD pipelines, and advanced system architecture.
-- 👯 **Looking to collaborate on**: Open-source Django, React.js, and Docker projects.
-- 💬 **Ask me about**: Full-stack development, REST APIs, SaaS architecture, or trading systems.
-- ⚡ **Fun fact**: I started my tech journey by working on small freelance projects during my graduation and turned it into a full-time career!
+I graduated in **2021** 🎓, and by that time, I had already gained **4 years of experience** 🕰️, becoming proficient in:
+- **Django** 🐍
+- **Python** 🐍
+- **React.js** ⚛️
+- **JavaScript** 🌐
+- **Vue.js** 🌊
+- **Data Analysis** 📈
 
+Later, in **2022**, I joined **Bugdev** 💼, where I worked extensively as a Full-stack Developer, focusing on:
+- **Django** 🐍
+- **React.js** ⚛️
+- **Docker** 🐳
+- **FastAPI** 🚀
+- **Flask** 🍞
+- **Web Scraping** 🕷️
+
+I have been an active freelancer since **2018** 🌟, providing high-quality services on platforms like **Upwork** and **Fiverr** while continuously expanding my knowledge and skills in new technologies.
+
+### 🔭 Current Project
+Currently, I am working on [**Modrek SaaS**](https://modrek.com), a platform designed to assist novice traders in making informed decisions. My focus areas include **Django**, **React.js**, and **Docker**.
+
+### 🌱 Learning
+I am currently enhancing my skill set with:
+- **Kubernetes** ☸️
+- **CI/CD pipelines** 🔄
+- **Advanced system architecture** 🏗️
+- **Data Science** 📊
+- **Machine Learning** 🤖
+
+### 👯 Looking to Collaborate On
+I’m eager to collaborate on open-source projects, particularly those involving:
+- **Django** 🐍
+- **React.js** ⚛️
+- **Docker** 🐳
+
+### 💬 Ask Me About
+Feel free to reach out if you’d like to discuss:
+- **Full-stack development** 💻
+- **REST APIs** 🌐
+- **SaaS architecture** 📦
+- **Trading systems** 📈
 ---
 
 ### 🛠️ My Tech Stack
