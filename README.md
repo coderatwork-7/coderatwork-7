@@ -4,7 +4,7 @@
 _Focused on building scalable web applications with modern technologies._
 
 ---
-<img align="center" src="https://images.app.goo.gl/9QYupST8th2KJNwZ6" />
+<img align="center" alt="Coder" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 👨‍💻 About Me
 My name is **Waqas Ahmad** 👋, and I’ve been a Full-stack Developer since 2017. I started my journey as a **Laravel Developer** 💻, but soon, **Python** 🐍 caught my interest, leading me into the fascinating world of **Data Science** 📊 and **Artificial Intelligence** 🤖—which originally inspired me to learn programming.
