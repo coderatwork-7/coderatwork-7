@@ -6,7 +6,7 @@ _Focused on building scalable web applications with modern technologies._
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Full-stack developer with over 3 years of experience in building high-performance applications using **Django**, **React.js**, and **Docker**. I'm currently working on [Modrek](https://modrek.com), a SaaS platform empowering new traders with smarter trading decisions.
+I'm a passionate Full-stack developer with over 6 years of experience in building high-performance applications using **Django**, **React.js**, and **Docker**. I'm currently working on [Modrek](https://modrek.com), a SaaS platform empowering new traders with smarter trading decisions.
 
 - 🔭 **Current Project**: [Modrek SaaS](https://modrek.com) (Django, React.js, Docker)
 - 🌱 **Learning**: Kubernetes, CI/CD pipelines, and advanced system architecture.
