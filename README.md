@@ -4,6 +4,7 @@
 _Focused on building scalable web applications with modern technologies._
 
 ---
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2B0Ek4UgnNLhIknzJANvmf&ust=1729249643778000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDroIOjlYkDFQAAAAAdAAAAABAK" />
 
 ### 👨‍💻 About Me
 My name is **Waqas Ahmad** 👋, and I’ve been a Full-stack Developer since 2017. I started my journey as a **Laravel Developer** 💻, but soon, **Python** 🐍 caught my interest, leading me into the fascinating world of **Data Science** 📊 and **Artificial Intelligence** 🤖—which originally inspired me to learn programming.
