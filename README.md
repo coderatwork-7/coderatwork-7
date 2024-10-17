@@ -95,9 +95,8 @@ Features:
 - Real-time trade alerts through WhatsApp, email, and app notifications.
 - Beautiful dashboard with user-friendly data insights.
 
-#### [Your Other Projects]  
-_List your other top projects and open-source contributions._
-
+#### Mine Projects  
+- 
 ---
 
 ### 🌐 Connect With Me
@@ -107,6 +106,6 @@ _List your other top projects and open-source contributions._
 - **[Upwork](https://www.upwork.com/freelancers/~waqasahmad)**  
 - **[Fiverr](https://www.fiverr.com/waqasahmad)**  
 - 📧 **Email**: [waqas.07124@gmail.com](mailto:waqas.07124@gmail.com)  
-- ☎️ **Phone**: +306-7124227
+- ☎️ **Phone**: +92-306-7124227
 
 
