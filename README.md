@@ -71,7 +71,7 @@ _List your other top projects and open-source contributions._
 - **[Twitter](https://twitter.com/waqasahmad)**  
 - **[Upwork](https://www.upwork.com/freelancers/~waqasahmad)**  
 - **[Fiverr](https://www.fiverr.com/waqasahmad)**  
-- 📧 **Email**: [waqas@example.com](mailto:waqas@example.com)  
-- ☎️ **Phone**: +123-456-7890 (replace with actual number)
+- 📧 **Email**: [waqas.07124@gmail.com](mailto:waqas.07124@gmail.com)  
+- ☎️ **Phone**: +306-7124227
 
 
