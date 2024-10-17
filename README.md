@@ -67,7 +67,11 @@ _List your other top projects and open-source contributions._
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-WaqasAhmad-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/waqasahmad)
-[![Twitter](https://img.shields.io/twitter/follow/waqasahmad?style=social)](https://twitter.com/waqasahmad)
-[![Email](https://img.shields.io/badge/Email-waqas@example.com-informational)](mailto:waqas@example.com)
+- **[LinkedIn](https://linkedin.com/in/waqasahmad)**  
+- **[Twitter](https://twitter.com/waqasahmad)**  
+- **[Upwork](https://www.upwork.com/freelancers/~waqasahmad)**  
+- **[Fiverr](https://www.fiverr.com/waqasahmad)**  
+- 📧 **Email**: [waqas@example.com](mailto:waqas@example.com)  
+- ☎️ **Phone**: +123-456-7890 (replace with actual number)
+
 
