@@ -79,9 +79,9 @@ Feel free to reach out if you’d like to discuss:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderatwork-7&theme=dracula&show_icons=true&hide_border=true" alt="Waqas Ahmad's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderatwork-7&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderatwork-7&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderatwork-7&theme=dark&layout=compact&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderatwork-7&theme=dracula&layout=compact&hide_border=true" alt="Top Langs"/>
 </div>
 
 ---
