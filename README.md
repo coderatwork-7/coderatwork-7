@@ -175,12 +175,6 @@ Features:
     <img widh="auto" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
  </a>
 </p>
-- **[LinkedIn](https://linkedin.com/in/waqasahmad)**  
-- **[Twitter](https://twitter.com/waqasahmad)**  
-- **[Upwork](https://www.upwork.com/freelancers/~waqasahmad)**  
-- **[Fiverr](https://www.fiverr.com/waqasahmad)**  
-- 📧 **Email**: [waqas.07124@gmail.com](mailto:waqas.07124@gmail.com)  
-- ☎️ **Phone**: +92-306-7124227
 
 
 <p align="left">
