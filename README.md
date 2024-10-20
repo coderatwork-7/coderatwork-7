@@ -166,16 +166,16 @@ Features:
 
 <p align="left"> 
   <a href="https://linkedin.com">
-    <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin icon"/>
+    <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin icon" style="margin-right: 10px;"/>
   </a>
   <a href="https://upwork.com">
-    <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon"/>
+    <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon" style="margin-right: 10px;"/>
   </a>
   <a href="https://fiverr.com">
-    <img width="40px" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
+    <img width="40px" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:waqas.07124@gmail.com">
-    <img width="40px" align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="fiverr icon"/>
+    <img width="40px" align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="fiverr icon" style="margin-right: 10px;"/>
   </a>
 </p>
 
