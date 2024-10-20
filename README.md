@@ -70,6 +70,14 @@ Feel free to reach out if you’d like to discuss:
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
   </a> 
+  <a href="https://celery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://icons.veryicon.com/png/o/food--drinks/food-7/celery-1.png" alt="laravel" width="40" height="40"/> 
+  </a> 
+    <a href="https://websockets.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/websocket.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  
+  
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
