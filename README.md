@@ -164,6 +164,17 @@ Features:
 
 ### 🌐 Connect With Me
 
+<p align="left"> 
+  <a href="https://linkedin.com"
+    <img widh="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" />
+  </a>
+  <a href="https://upwork.com"
+    <img widh="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" />
+  </a>
+  <a href="https://fiverr.com"
+    <img widh="auto" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" />
+ </a>
+</p>
 - **[LinkedIn](https://linkedin.com/in/waqasahmad)**  
 - **[Twitter](https://twitter.com/waqasahmad)**  
 - **[Upwork](https://www.upwork.com/freelancers/~waqasahmad)**  
