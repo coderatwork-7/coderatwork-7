@@ -174,7 +174,7 @@ Features:
   <a href="https://fiverr.com">
     <img width="40px" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
   </a>
-  <a href="href="mailto:waqas.07124@gmail.com">
+  <a href="mailto:waqas.07124@gmail.com">
     <img width="40px" align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="fiverr icon"/>
   </a>
 </p>
