@@ -169,7 +169,7 @@ Features:
     <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin icon"/>
   </a>
   <a href="https://upwork.com">
-    <img width="100px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon"/>
+    <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon"/>
   </a>
   <a href="https://fiverr.com">
     <img width="40px" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
