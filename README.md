@@ -63,7 +63,7 @@ Feel free to reach out if you’d like to discuss:
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="40" height="40"/> 
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django" width="80" height="40"/> 
   </a>
   
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
