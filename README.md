@@ -165,15 +165,15 @@ Features:
 ### 🌐 Connect With Me
 
 <p align="left"> 
-  <a href="https://linkedin.com"
-    <img widh="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin icon"/>
+  <a href="https://linkedin.com">
+    <img width="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin icon"/>
   </a>
-  <a href="https://upwork.com"
-    <img widh="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon"/>
+  <a href="https://upwork.com">
+    <img width="auto" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="upwork icon"/>
   </a>
-  <a href="https://fiverr.com"
-    <img widh="auto" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
- </a>
+  <a href="https://fiverr.com">
+    <img width="auto" align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr icon"/>
+  </a>
 </p>
 
 <br>
