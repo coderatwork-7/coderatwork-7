@@ -83,7 +83,7 @@ Feel free to reach out if you’d like to discuss:
     <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="scrapy" width="40" height="40"/>
   </a>
   <a href="https://beautifulsoup.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://funthon.wordpress.com/wp-content/uploads/2017/05/bs.png?w=772" alt="beautifulsoup" width="80" height="40"/>
+    <img src="https://cdn.scrapfly.io/srapeground/0.0.12/media/beautifulsoup4.svg" alt="beautifulsoup" width="80" height="40"/>
   </a>
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic search" width="40" height="40"/> 
