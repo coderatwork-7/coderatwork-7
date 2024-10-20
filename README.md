@@ -80,7 +80,7 @@ Feel free to reach out if you’d like to discuss:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
   <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrapy/scrapy-original.svg" alt="scrapy" width="40" height="40"/>
+    <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="scrapy" width="40" height="40"/>
   </a>
   <a href="https://beautifulsoup.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BeautifulSoup_Logo.png/160px-BeautifulSoup_Logo.png" alt="beautifulsoup" width="40" height="40"/>
