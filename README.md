@@ -182,7 +182,7 @@ Features:
 <br>
 <br>
 <br>
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/awaisanwar544/rr-workshop">
 <img width='auto' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awaisanwar544&repo=rr-workshop&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B948E&icon_color=01D892" />
 </a>
@@ -191,5 +191,5 @@ Features:
 <a href="https://github.com/awaisanwar544/todo-list">
 <img width='auto' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awaisanwar544&repo=todo-list&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B948E&icon_color=01D892" />
 </a>
-</p>
+</p> -->
 
