@@ -1,6 +1,7 @@
 # Hey, I'm Waqas Ahmad! 👋
 <img src="https://img.shields.io/badge/Waqas%20Ahmad-is%20Hireable-orange" />
-**Full-stack Developer | SaaS Enthusiast | Open Source Contributor**  
+<strong>Full-stack Developer | SaaS Enthusiast | Open Source Contributor</strong>
+
 _Focused on building scalable web applications with modern technologies._
 
 ---
