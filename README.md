@@ -79,12 +79,6 @@ Feel free to reach out if you’d like to discuss:
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic search" width="40" height="40"/> 
   </a>
@@ -94,6 +88,12 @@ Feel free to reach out if you’d like to discuss:
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digital ocean" width="40" height="40"/> 
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
