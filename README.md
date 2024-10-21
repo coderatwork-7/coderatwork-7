@@ -48,6 +48,8 @@ I’m eager to collaborate on open-source projects, particularly those involving
 ### 💬 Ask Me About
 Feel free to reach out if you’d like to discuss:
 - **Full-stack development** 💻
+- **Data Science** 📊  
+- **Data Analysis** 📉
 - **REST APIs** 🌐
 - **SaaS architecture** 📦
 - **Trading systems** 📈
